@@ -1,0 +1,12 @@
+.LoadPost {
+    box-shadow: inset 0 0 0 1px #2185d0!important;
+    color: #2185d0!important;
+    font-size: 14px;
+    padding: 5px 15px 5px 10px;
+    border-radius: .28571429rem;
+
+}
+.Content {
+    margin-left: 10px;
+    display: inline;
+}
