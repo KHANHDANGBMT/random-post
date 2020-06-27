@@ -14,7 +14,6 @@ class Post extends PureComponent {
     );
   }
   render() {
-    console.log(this.props.post);
     return (
       <div
         className={
